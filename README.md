@@ -12,11 +12,6 @@ This is a basic webpage meant to replicate the layout.jpg image in this repo. It
 
 [Click here](http://dmdiehr.github.io/layout/) to view the most up-to-date version of the project.
 
-The improved version of this project is located [here](https://github.com/dmdiehr/improved_layout).
- 
-[Click here](http://dmdiehr.github.io/improved_layout/) to view the webpage from that project.
-
-
 ### Legal
 
 Copyright (c) 2015 **_David Diehr_**
