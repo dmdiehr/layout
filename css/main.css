@@ -1,15 +1,43 @@
+h1, h2, body, ul {
+  margin: 0;
+}
+p {
+  margin-bottom: 0;
+}
+h1, h2 {
+  padding: 8px;
+}
+p {
+  padding: 0 8px 8px 8px;
+}
+#column1 a {
+  padding-left: 8px;
+}
+nav {
+  padding: 8px;
+}
+ul {
+  padding-top: 8px;
+}
+
 body {
   background-color: rgb(168, 161, 155);
 }
 #container {
   width: 95%;
-  max-width: 1000px;
+  margin: auto;
 }
 #column1 {
   background-color: rgb(154, 204, 153);
+  width: 65%;
+  float: left;
+  min-height: 1000px
 }
 #column2 {
   background-color: rgb(153, 153, 205);
+  width: 35%;
+  float: right;
+  min-height: 1000px;
 }
 nav {
   background-color: rgb(203, 153, 152);
